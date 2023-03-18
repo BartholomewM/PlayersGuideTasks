@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\bin\Debug\net6.0\SimulaSoup.exe
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\bin\Debug\net6.0\SimulaSoup.deps.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\bin\Debug\net6.0\SimulaSoup.runtimeconfig.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\bin\Debug\net6.0\SimulaSoup.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\bin\Debug\net6.0\SimulaSoup.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.AssemblyInfo.cs
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\refint\SimulaSoup.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\SimulaSoup.genruntimeconfig.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaSoup\SimulaSoup\obj\Debug\net6.0\ref\SimulaSoup.dll

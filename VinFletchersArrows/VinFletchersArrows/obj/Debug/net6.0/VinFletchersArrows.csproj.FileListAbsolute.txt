@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.exe
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.deps.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.runtimeconfig.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\bin\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.AssemblyInfo.cs
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\refint\VinFletchersArrows.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\VinFletchersArrows.genruntimeconfig.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\VinFletchersArrows\VinFletchersArrows\obj\Debug\net6.0\ref\VinFletchersArrows.dll

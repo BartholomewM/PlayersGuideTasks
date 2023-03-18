@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\bin\Debug\net6.0\SimulaTest.exe
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\bin\Debug\net6.0\SimulaTest.deps.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\bin\Debug\net6.0\SimulaTest.runtimeconfig.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\bin\Debug\net6.0\SimulaTest.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\bin\Debug\net6.0\SimulaTest.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.AssemblyInfo.cs
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\refint\SimulaTest.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\SimulaTest.genruntimeconfig.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\SimulaTest\SimulaTest\obj\Debug\net6.0\ref\SimulaTest.dll

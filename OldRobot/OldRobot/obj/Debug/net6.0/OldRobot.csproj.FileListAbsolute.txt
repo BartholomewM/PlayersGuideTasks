@@ -1,0 +1,15 @@
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\bin\Debug\net6.0\OldRobot.exe
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\bin\Debug\net6.0\OldRobot.deps.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\bin\Debug\net6.0\OldRobot.runtimeconfig.json
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\bin\Debug\net6.0\OldRobot.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\bin\Debug\net6.0\OldRobot.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.csproj.AssemblyReference.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.AssemblyInfoInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.AssemblyInfo.cs
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.csproj.CoreCompileInputs.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\refint\OldRobot.dll
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.pdb
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\OldRobot.genruntimeconfig.cache
+C:\Users\barte\Desktop\python\player_guide\player_tasks\OldRobot\OldRobot\obj\Debug\net6.0\ref\OldRobot.dll
